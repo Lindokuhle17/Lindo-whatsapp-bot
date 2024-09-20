@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "Lindo Bot",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -8,7 +8,7 @@
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Enter whatsapp web session.",
+            "description": "levanter_209d91186075fa4c0a9025f4fcf18e7ab1",
             "required": true
         },
         "SUDO": {
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "🥰,Lindo Bot"
         },
         "DISABLE_BOT": {
             "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
