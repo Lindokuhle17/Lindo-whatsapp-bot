@@ -1,4 +1,4 @@
-/* Copyright (C) 2020 Yusuf Usta.
+na/* Copyright (C) 2020 Yusuf Usta.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
@@ -26,7 +26,7 @@ DEBUG =
 module.exports = {
   VERSION: "v1.2.8",
   SESSION:
-    process.env.ASENA_SESSION === undefined ? "" : process.env.ASENA_SESSION,
+    process.env.ASENA_SESSION === undefined ? "levanter_209d91186075fa4c0a9025f4fcf18e7ab1" : process.env.ASENA_SESSION,
   EXT: process.env.EXT === undefined ? undefined : process.env.EXT,
   LANG:
     process.env.LANGUAGE === undefined
